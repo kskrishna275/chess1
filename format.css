@@ -1,0 +1,20 @@
+body{
+    padding: 5%;
+    background: #4f5f4b; 
+}
+#container{
+    height: 248px;
+    width: 248px;
+    border: 2px solid black;
+    display: flex;
+    margin: auto;   
+}
+.items{
+    height: 31px;
+    width: 31px;
+    background: white;   
+}
+.black{
+    display: flex;
+    background: black;
+}
